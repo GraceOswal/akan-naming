@@ -36,12 +36,12 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
 
 | Outputs |  Description |
 | :---         |          ---: |
-| Day of birth  | The day of the week that the user was born ``eg Thursday`` |
+| D.O.B  | The day of the week that the user was born ``eg Thursday`` |
 | Akan name    |  The corresponding Akan name for the user ``eg Yaa``    |
 |     |      |
 
 
-## Known Bugs
+## Issues:
 * Tuesday 25th 2020 the IP redirected to the README.md file only instead of the whole site preview.
 
 ## License
