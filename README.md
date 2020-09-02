@@ -19,18 +19,18 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
  > ``Open the index.html on your favorite browser``
 
 ## Technologies used.
-  * Html5
+  * Html
   * Css
   * Javascript
   * Bootstrap
-  * Markdown
+  * 
   
 ## BDD
 | Inputs |  Description |
-| :---         |          ---: |
-| Century   | The century that the user was born in, ``eg 20th century``|
+| :---    |    ---: |
+| Century  | The century that the user was born in, ``eg 20th century``|
 | Year     | The year of the century ``eg 96th year``   |
-| Month     | The month of the year ``eg 12th month``     |
+| Month    | The month of the year ``eg 12th month``     |
 | Date     |  The day of the month ``eg 25th day`` |
 
 
