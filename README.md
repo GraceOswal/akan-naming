@@ -23,7 +23,7 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
   * Css
   * Javascript
   * Bootstrap
-  * 
+  
   
 ## BDD
 | Inputs |  Description |
