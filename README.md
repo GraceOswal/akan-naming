@@ -2,35 +2,33 @@
 
 [Check out](https://graceoswal.github.io/akan-naming/)
 
-## Description.
+## Description
 
-A Website takes the ``user's birthday``, and calculates the ``day of the week`` they were born and outputs their ``Akan Name``depending on their given gender. 
+A Website takes the ``user's birthday``, and calculates the ``day of the week`` they were born and outputs their ``Akan Name``depending on their given gender.
 
-## Author.
+## Author
 
  > GraceOswal
 
- 
- ## Setup.
+## Setup
 
  > ``git clone https://github.com/GraceOswal/akan-naming.git``
- 
+
  ``extract the file``
- 
+
  ``cd to the Akan-Names directory``
- 
+
  > ``Open the index.html on your favorite browser``
 
-## Technologies used.
+## Technologies used
 
 * Html
 
- * Css
+* Css
 
- * Javascript
+* Javascript
 
- * Bootstrap
-  
+* Bootstrap
   
 ## BDD
 
@@ -41,13 +39,11 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
 | Month    | The month of the year ``eg 12th month``     |
 | Date     |  The day of the month ``eg 25th day`` |
 
-
 | Outputs |  Description |
 | :---         |          ---: |
 | D.O.B  | The day of the week that the user was born ``eg Thursday`` |
 | Akan name    |  The corresponding Akan name for the user ``eg Yaa``    |
 |     |      |
-
 
 ## Issues
 
@@ -55,9 +51,9 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
 
 ## License
 
-> [https://github.com/GraceOswal/akan-naming/blob/master/LICENSE] GPL-3.0 License  &copy 2019 GraceOswal 
+> [https://github.com/GraceOswal/akan-naming/blob/master/LICENSE] GPL-3.0 License  &copy 2019 GraceOswal
 
 ## Collaborate
 
-To collaborate in my project, kindly reach me on Email:([graceoswal88@gmail.com]) 
+To collaborate in my project, kindly reach me on Email:([graceoswal88@gmail.com])
 Contact info (+254 716488695)
