@@ -41,12 +41,15 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
 |     |      |
 
 
-## Issues:
+## Issues
+
 * Tuesday 25th 2020 the IP redirected to the README.md file only instead of the whole site preview.
 
 ## License
+
 > [https://github.com/GraceOswal/akan-naming/blob/master/LICENSE] GPL-3.0 License  &copy 2019 GraceOswal 
 
 ## Collaborate
+
 To collaborate in my project, kindly reach me on Email:([graceoswal88@gmail.com]) 
 Contact info (+254 716488695)
