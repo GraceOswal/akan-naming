@@ -3,13 +3,16 @@
 [Check out](https://graceoswal.github.io/akan-naming/)
 
 ## Description.
+
 A Website takes the ``user's birthday``, and calculates the ``day of the week`` they were born and outputs their ``Akan Name``depending on their given gender. 
 
 ## Author.
+
  > GraceOswal
 
  
  ## Setup.
+
  > ``git clone https://github.com/GraceOswal/akan-naming.git``
  
  ``extract the file``
@@ -19,13 +22,18 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
  > ``Open the index.html on your favorite browser``
 
 ## Technologies used.
-  * Html
-  * Css
-  * Javascript
-  * Bootstrap
+
+* Html
+
+ * Css
+
+ * Javascript
+
+ * Bootstrap
   
   
 ## BDD
+
 | Inputs |  Description |
 | :---    |    ---: |
 | Century  | The century that the user was born in, ``eg 20th century``|
