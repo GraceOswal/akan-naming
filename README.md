@@ -51,7 +51,7 @@ A Website takes the ``user's birthday``, and calculates the ``day of the week`` 
 
 ## License
 
-> [https://github.com/GraceOswal/akan-naming/blob/master/LICENSE] GPL-3.0 License  &copy 2019 GraceOswal
+> [https://github.com/GraceOswal/akan-naming/blob/master/LICENSE] GPL-3.0 License  &copy 2020 GraceOswal
 
 ## Collaborate
 
